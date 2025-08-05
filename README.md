@@ -1,6 +1,7 @@
 This repo is a complete accounting of external software security audits that Chia Network Inc. has contracted for the Chia Blockchain Software. 
 **Date**|**Auditor**|**Topic**|**Notes**
 -----|-----|-----|-----
+2025-07-31 | [Least Authority](https://leastauthority.com/) | [Permuto App](https://github.com/Chia-Network/Audit-Reports/blob/main/Least%20Authority%20-%20Chia%20Network%20Permuto%20App%20Final%20Audit%20Report.pdf) |
 2023-09-20 | [Least Authority](https://leastauthority.com/) | [Offers Primitive](https://github.com/Chia-Network/Audit-Reports/blob/main/Least%20Authority%20-Chia%20Network%20Offers%20Primitive%20Final%20Audit%20Report.pdf) | [Initial Report](https://github.com/Chia-Network/Audit-Reports/blob/main/Least%20Authority%20-%20Chia%20Network%20Offers%20Primitive%20Security%20Audit%20Report.pdf)
 2023-06-29 | [Least Authority](https://leastauthority.com/) | [ETH to Chia Bridge](https://github.com/Chia-Network/Audit-Reports/blob/main/Least%20Authority-%20Chia%20Network%20ETH%20to%20Chia%20Bridge%20Final%20Audit%20Report.pdf) | [Initial Report](https://github.com/Chia-Network/Audit-Reports/blob/main/Least%20Authority%20-%20Chia%20Network%20ETH%20to%20Chia%20Bridge%20Initial%20Audit%20Report.pdf). This bridge was not deployed in favor of [warp.green](https://warp.green)
 2022-06-24 | [Trail of Bits](https://www.trailofbits.com/) | [Chia CAT Standard](https://github.com/Chia-Network/Audit-Reports/blob/main/Trail%20of%20bits%20CAT%20standard%20audit.pdf) | 
